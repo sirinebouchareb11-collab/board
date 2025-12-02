@@ -1,0 +1,27 @@
+*{
+    font-family: 'Segoe UI',
+     Tahoma, Geneva,
+      Verdana, sans-serif;
+      padding: 0;
+      margin: 0;
+}
+
+body{
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-image: linear-gradient( to right,rgb(24, 4, 4),rgb(3, 3, 73)); 
+}
+ul li{
+list-style: none;
+}
+
+.container{
+    background-image: linear-gradient(to right,
+    rgba(0, 0, 0, 0.322),
+    rgba(0, 0, 255, 0.466)),
+    url(c:\Users\Acer\Desktop\galxy\Facebook\FB_IMG_17062773186701252.jpg);
+    width: 90%;
+    height: 640px;
+}
